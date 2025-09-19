@@ -1,9 +1,12 @@
-<h1 align="center">✨ Full-Stack Chat App with Auth & Emails ✨</h1>
+<h1 align="center">🌍 Lingua Link - Real-time Translation Messaging App 🌍</h1>
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-Highlights:
+**Lingua Link** is a revolutionary messaging platform that breaks down language barriers with real-time translation capabilities, allowing users to communicate seamlessly across different languages.
 
+## ✨ Key Features:
+
+- 🌐 **Real-time Translation** - Instant message translation between languages
 - 🔐 Custom JWT Authentication (no 3rd-party auth)
 - ⚡ Real-time Messaging via Socket.io
 - 🟢 Online/Offline Presence Indicators

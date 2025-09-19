@@ -49,7 +49,7 @@ This document outlines the comprehensive security measures implemented in the Ch
 ### Environment Variables
 ```bash
 # Required for security
-JWT_SECRET=your_super_secret_jwt_key_for_chatify_app_2024
+JWT_SECRET=your_super_secret_jwt_key_for_lingua_link_2024
 NODE_ENV=production  # For production security
 CLIENT_URL=https://yourdomain.com  # Strict CORS
 ```
